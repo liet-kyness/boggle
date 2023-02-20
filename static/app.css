@@ -1,0 +1,20 @@
+/* #boggle {
+    background-color: rgb(254, 170, 86);
+} */
+
+.board {
+    border: 1px solid black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 1.5rem;
+    background-color: rgba(255, 170, 86, 0.5);
+    text-align: center;
+    border-radius: 5px;
+    color: rgba(0, 0 255, 0.8)
+
+}
+
+.board td {
+    border: 3px solid black;
+
+}
